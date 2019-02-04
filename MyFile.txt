@@ -1,5 +1,5 @@
 Testing Git in VS
-now it is updated in git now it is VS
+now it is updated in git now it is VS ... changed
 
 welcome Testing
 
