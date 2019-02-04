@@ -8,8 +8,8 @@ welcome Testing
 test on monday
 
 
-<<<<<<< HEAD
+
 GitHub Desktop Software Working
-=======
+
 GitHub Desktop sw
 
