@@ -8,4 +8,8 @@ welcome Testing
 test on monday
 
 
+<<<<<<< HEAD
 GitHub Desktop Software Working
+=======
+GitHub Desktop
+>>>>>>> parent of 3602aeb... Update MyFile.txt
