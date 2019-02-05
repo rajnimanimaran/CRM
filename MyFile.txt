@@ -25,4 +25,4 @@ GitHub Desktop sotfware
 
 welcome to kaizen Techno Soft
  
-Commit and then ok dd
+Commit
