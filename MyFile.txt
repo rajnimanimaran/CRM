@@ -8,7 +8,7 @@ gith kizen
   
 
 TEST 1
-Hub test 2 12
+Hubb test 2 12
 
 test on monday
 
