@@ -30,4 +30,4 @@ welcome to kaizen Techno Soft
 Commit ok
 =======
 Commit okk BY JAI A8MNASGU
->>>>>>> cb5696af0f395058e71f9a4b9f1a2b1140130d3b
+>>>>>>> cb5696af0f395058e7
