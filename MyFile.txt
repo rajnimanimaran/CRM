@@ -27,7 +27,7 @@ GitHub Desktop sotfware
 welcome to kaizen Techno Soft
  
 <<<<<<< HEAD
-Commit ok
+Commit okjn
 =======
 Commit okk BY JAI A8MNASGU
 >>>>>>> cb5696af0f395058e7
